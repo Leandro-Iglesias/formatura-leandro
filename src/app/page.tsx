@@ -89,8 +89,8 @@ export default function Formatura() {
         <section className="text-center pt-20 pb-4 animate-fade-up-2">
           {/* Linha de contexto */}
           <p className="text-[10px] font-semibold tracking-[6px] text-[#c9a227]/70 uppercase mb-10">
-            E depois de anos de dedicação e esforço, chegou a hora de celebrar
-            uma conquista incrível!
+            E depois de anos de dedicação e esforço, finalmente chegou a hora de
+            virar desempregado
           </p>
 
           {/* Nome em destaque — protagonista */}
@@ -287,16 +287,22 @@ export default function Formatura() {
         ════════════════════════════════════════ */}
         <section className="animate-fade-up-5">
           <p
-            className="text-center text-[28px] font-light italic text-[#f5f0e8]/80 mb-2 leading-snug"
+            className="text-center text-2xl md:text-3xl font-light italic text-[#c9a227]/80 mb-6 leading-relaxed"
             style={{ fontFamily: "'Cormorant Garamond', serif" }}
           >
             Uma jornada de dedicação,
           </p>
           <p
-            className="text-center text-[28px] font-light italic text-[#c9a227] mb-10 leading-snug"
+            className="text-center text-2xl md:text-3xl font-light italic text-[#c9a227] mb-6 leading-relaxed"
             style={{ fontFamily: "'Cormorant Garamond', serif" }}
           >
-            superação e conquista.
+            superação, noites mal dormidas,
+          </p>
+          <p
+            className="text-center text-2xl md:text-3xl font-light italic text-[#c9a227]/80 mb-12 leading-relaxed"
+            style={{ fontFamily: "'Cormorant Garamond', serif" }}
+          >
+            choros e conquistas.
           </p>
 
           {/* Título galeria */}
@@ -415,7 +421,7 @@ export default function Formatura() {
           </p>
 
           <p
-            className="text-[32px] font-light italic text-[#f5f0e8] leading-snug mb-2"
+            className="text-[32px] font-light italic text-[#c9a227] leading-snug mb-2"
             style={{ fontFamily: "'Cormorant Garamond', serif" }}
           >
             Venha celebrar
@@ -424,7 +430,7 @@ export default function Formatura() {
             className="text-[32px] font-light italic text-[#c9a227] leading-snug mb-12"
             style={{ fontFamily: "'Cormorant Garamond', serif" }}
           >
-            essa conquista conosco.
+            conosco !!
           </p>
 
           {/* Cards data e hora */}
